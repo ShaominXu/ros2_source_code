@@ -49,7 +49,7 @@ ComposableNode 的描述则由加载动作转换成组件管理请求，和为�
 Ubuntu、Bash，在仓库根目录执行：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

@@ -57,7 +57,7 @@ Fibonacci 示例的接受回调启动并 detach 一个线程，是示例自身�
 Ubuntu、Bash，每个终端先加载本书工作区并设置相同域和 RMW：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

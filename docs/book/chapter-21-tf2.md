@@ -57,7 +57,7 @@ TransformListener 可以使用专用执行器线程，也可以由应用负责�
 Ubuntu、Bash，各终端先执行：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

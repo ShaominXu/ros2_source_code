@@ -30,7 +30,7 @@
 
 本轮写作与静态检查环境为 Windows、PowerShell 和 Python 3.12；没有可调用的 `ros2`、`colcon`、`cmake`。尚未建立本书源码的可运行构建环境。各章 CLI、GDB、通信与录制实验均待执行，不能把预期输出视为实测。
 
-新增章节默认实验环境为 Ubuntu、Bash、本书源码构建后的 `install/setup.bash`、域 42 和 rmw_fastrtps_cpp。章内 `/path/to/ros2_humble` 需替换为实际构建工作区。使用其他发行包环境时应记录差异，不视为本书固定源码的运行证据。
+新增章节默认实验环境为 Ubuntu、Bash、本书源码构建后的 `install/setup.bash`、域 42 和 rmw_fastrtps_cpp。章内 `/path/to/ros2_source_code` 需替换为实际构建工作区。使用其他发行包环境时应记录差异，不视为本书固定源码的运行证据。
 
 实验前在工作区根目录保存：
 

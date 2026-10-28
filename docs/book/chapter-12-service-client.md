@@ -64,7 +64,7 @@ sequenceDiagram
 每个终端先执行，路径替换为本书源码构建工作区：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

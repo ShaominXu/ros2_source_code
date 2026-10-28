@@ -45,7 +45,7 @@ topic list 证明查询节点发现了名称与类型，topic info 进一步展�
 Ubuntu、Bash，各终端先执行：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

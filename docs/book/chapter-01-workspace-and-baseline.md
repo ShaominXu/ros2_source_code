@@ -15,7 +15,7 @@
 以 `rclcpp` 为例：
 
 ```text
-ros2_humble/                         工作区与书稿仓库
+ros2_source_code/                         工作区与书稿仓库
   src/
     ros2/                            上游组织分组
       rclcpp/                        上游 Git 仓库

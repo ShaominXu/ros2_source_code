@@ -58,7 +58,7 @@ sequenceDiagram
 Ubuntu、Bash，所有终端加载同一工作区，固定域 42、RMW 为 rmw_fastrtps_cpp：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results

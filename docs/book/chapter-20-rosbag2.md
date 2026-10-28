@@ -50,7 +50,7 @@ Recorder 可以根据已发现发布者的 offered QoS 适配订阅，也允许�
 Ubuntu、Bash，所有终端加载本书工作区，固定域和 RMW：
 
 ```bash
-source /path/to/ros2_humble/install/setup.bash
+source /path/to/ros2_source_code/install/setup.bash
 export ROS_DOMAIN_ID=42
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 mkdir -p experiment-results
